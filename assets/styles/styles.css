@@ -1,0 +1,93 @@
+*{
+    font-family: "Poppins";
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a.hover{
+    color: rgb(0, 255, 0);
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    color: white;
+    padding: 50px;
+    font-family: "Poppins";
+    font-weight: bold;    
+}
+.agriplus{
+    justify-content: flex-start;
+    font-weight: 800;
+    font-size: 200%;
+}
+.home{
+    border-bottom: 2px solid #ED661F;
+    margin: 10px;
+}
+.about{
+    margin: 10px;
+}
+#nav1{
+    font-size: 130%;
+}
+#nav2{
+    font-size: 130%;
+    justify-content: flex-end;
+}
+.getstartedbtn{
+    background-color: #ED661F;
+    font-size: 130%;
+    padding: 20px;
+    margin-left: 70px;
+    color: white;
+    font-weight: bold;
+}
+.buyingdiv{
+    height: 600px;
+    width: 100%;
+    background-image: url(/assets/images/image\ 1.png);
+    background-size: contain;
+}
+#buyingimg{
+    height: 60%;
+    width: 60%;
+    float: right;
+}
+#buyingtxt1{
+    font-size: 310%;
+    font-weight: bolder;
+}
+#buyingtxt2{
+    font-size: 160%;
+}
+.exploremorebtn{
+    background-color: #ED661F;
+    padding: 20px;
+    color: white;
+    font-size: 150%;
+    font-weight: bold;
+}
+.numbers{
+    font-weight: bold;
+    column-count: 3;
+    float: right;
+    padding: 60px;
+    position: relative;
+    left: 500px;
+    background-color: white;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#existimg{
+    height: 60%;
+    width: 60%;
+    float: right;
+}
+#existtxt1{
+    font-size: 200%;
+}
+#existtxt2{
+    font-size: 165%;
+}
