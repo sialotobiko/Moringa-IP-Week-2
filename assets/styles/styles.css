@@ -107,10 +107,26 @@ a.hover{
 #mostp{
     border-bottom: 4px solid #ED661F;
 }
+.products{
+    display: flex;
+    justify-content: space-between;
+}
 #carrotsimg{
     height: 300px;
     width: 300px;
 }
-#price{
+#cerealsimg{
+    height: 300px;
+    width: 300px;
+}
+#fishimg{
+    height: 300px;
+    width: 300px;
+}
+#kalesimg{
+    height: 300px;
+    width: 300px;
+}
+#price, #desc{
     font-weight: bold;
 }
