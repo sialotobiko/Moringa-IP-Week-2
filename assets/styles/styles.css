@@ -159,6 +159,10 @@ hr{
 #personimg{
     padding: 30px;
 }
+.arrow{
+    font-size:80px; 
+    color:#ed661f;
+}
 .newsletter{
     display: flex;
     flex-direction: column;
@@ -180,4 +184,8 @@ hr{
     font-weight: bold;
     background-color: #ED661F;
 
+}
+.bottomnavbar{
+    background-color: black;
+    color: white;
 }
