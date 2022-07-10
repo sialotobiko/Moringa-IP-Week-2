@@ -48,7 +48,7 @@ a.hover{
 .buyingdiv{
     height: 600px;
     width: 100%;
-    background-image: url(/assets/images/image\ 1.png);
+    background-image: url('/assets/images/image\ 1.png');
     background-size: contain;
 }
 #buyingimg{
