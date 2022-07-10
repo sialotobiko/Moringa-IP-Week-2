@@ -91,10 +91,26 @@ a.hover{
 #existtxt2{
     font-size: 165%;
 }
+#whyw{
+    border-bottom: 4px solid #ED661F;
+}
 #category{
     text-align: center;
+}
+#gories{
+    border-bottom: 4px solid #ED661F;
 }
 #beyond, #from{
     text-align: center;
     font-size: 165%;
+}
+#mostp{
+    border-bottom: 4px solid #ED661F;
+}
+#carrotsimg{
+    height: 300px;
+    width: 300px;
+}
+#price{
+    font-weight: bold;
 }
