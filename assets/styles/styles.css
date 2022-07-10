@@ -159,3 +159,25 @@ hr{
 #personimg{
     padding: 30px;
 }
+.newsletter{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: black;
+    color:white;
+    padding: 70px;
+}
+#email{
+    background-color: white;
+    height: 70px;
+    font-size: large;
+}
+#emailbtn{
+    height: 70px;
+    width: 200px;
+    font-size: large;
+    color: white;
+    font-weight: bold;
+    background-color: #ED661F;
+
+}
