@@ -1,4 +1,4 @@
-*{
+body{
     font-family: "Poppins";
 }
 a{
@@ -15,8 +15,8 @@ a.hover{
     background-color: black;
     color: white;
     padding: 50px;
-    font-family: "Poppins";
-    font-weight: bold;    
+    font-family: "Inter";
+    font-weight: bolder;    
 }
 .agriplus{
     justify-content: flex-start;
@@ -196,11 +196,11 @@ hr{
     margin-top: 5px;
     width: 100%;
 }
-.fa {  
+
+.fab {  
     padding: 5px;  
   text-align: center;  
-    margin: 5px 2px;  
-    font-size: 30px;  
+    margin: 5px 2px;    
     width: 50px;
     height: 70px;  
   }
