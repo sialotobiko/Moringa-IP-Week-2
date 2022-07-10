@@ -130,3 +130,6 @@ a.hover{
 #price, #desc{
     font-weight: bold;
 }
+#new{
+    border-bottom: 4px solid #ED661F;
+}
