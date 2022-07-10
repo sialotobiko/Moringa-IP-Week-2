@@ -111,19 +111,7 @@ a.hover{
     display: flex;
     justify-content: space-between;
 }
-#carrotsimg{
-    height: 300px;
-    width: 300px;
-}
-#cerealsimg{
-    height: 300px;
-    width: 300px;
-}
-#fishimg{
-    height: 300px;
-    width: 300px;
-}
-#kalesimg{
+#productimg{
     height: 300px;
     width: 300px;
 }
