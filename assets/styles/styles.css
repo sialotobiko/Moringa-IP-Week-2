@@ -170,6 +170,7 @@ hr{
     background-color: black;
     color:white;
     padding: 70px;
+    width: 100%;
 }
 #email{
     background-color: white;
@@ -188,4 +189,15 @@ hr{
 .bottomnavbar{
     background-color: black;
     color: white;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+    width: 100%;
+}
+.tandc{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 105%;
+    margin-top: 0;
 }
