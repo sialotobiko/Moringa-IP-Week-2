@@ -145,12 +145,12 @@ hr{
     background-color: unset;
     border: none;
 }
-.comments1{
+.comments{
     display: flex;
     flex-direction: column;
     width: 340px;
 }
-#person1{
+#person{
     display: flex;
     align-items: center;
     font-size: 20px;
