@@ -212,7 +212,11 @@ hr{
   }
   .fa-instagram {  
     color: white;  
-  }  
+  } 
+  #appstore{
+    display: flex;
+    justify-content: space-between;
+  }
 .tandc{
     background-color: black;
     color: white;
