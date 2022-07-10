@@ -121,3 +121,6 @@ a.hover{
 #new{
     border-bottom: 4px solid #ED661F;
 }
+.newestitems{
+    display: flex;
+}
