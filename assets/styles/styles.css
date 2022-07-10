@@ -138,13 +138,15 @@ hr{
     display: flex;
     justify-content: space-around;
 }
-.star{
-    font-size: 50px;
-    font-weight: bold;
-    color: #ED661F;
-    background-color: unset;
-    border: none;
+.fa-star{
+    font-size: 2em;
 }
+.checked {
+    color: orange;
+  }
+  .unchecked{
+    color: lightgray;
+  }
 .comments{
     display: flex;
     flex-direction: column;
@@ -194,6 +196,23 @@ hr{
     margin-top: 5px;
     width: 100%;
 }
+.fa {  
+    padding: 5px;  
+  text-align: center;  
+    margin: 5px 2px;  
+    font-size: 30px;  
+    width: 50px;
+    height: 70px;  
+  }
+.fa-facebook {  
+    color: white;  
+  }  
+  .fa-twitter {    
+    color: white;
+  }
+  .fa-instagram {  
+    color: white;  
+  }  
 .tandc{
     background-color: black;
     color: white;
