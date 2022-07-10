@@ -134,3 +134,7 @@ hr{
     height: 30px;
     background-color: lightgray;
 }
+.feedbackdiv{
+    display: flex;
+    justify-content: space-around;
+}
