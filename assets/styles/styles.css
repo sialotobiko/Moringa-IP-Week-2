@@ -121,3 +121,12 @@ a.hover{
 #new{
     border-bottom: 4px solid #ED661F;
 }
+.seeall{
+    font-size: 200%;
+}
+#seeall{
+    float: right;
+}
+#see{
+    border-bottom: 6px solid #ED661F;
+}
