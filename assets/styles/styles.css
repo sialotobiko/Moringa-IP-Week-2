@@ -130,3 +130,7 @@ a.hover{
 #see{
     border-bottom: 6px solid #ED661F;
 }
+hr{
+    height: 30px;
+    background-color: lightgray;
+}
