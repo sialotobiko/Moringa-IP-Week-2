@@ -5,8 +5,8 @@ a{
     color: white;
     text-decoration: none;
 }
-a.hover{
-    color: rgb(0, 255, 0);
+a:hover{
+    color:#ED661F;
 }
 .navbar{
     display: flex;
@@ -80,8 +80,13 @@ a.hover{
     background-color: white;
     box-shadow: 5px 5px 10px lightgray;
 }
+.existdiv{
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
 #existimg{
-    height: 60%;
+    height: 40%;
     width: 60%;
     float: right;
 }
@@ -104,12 +109,21 @@ a.hover{
     text-align: center;
     font-size: 165%;
 }
+.mostpopular{
+    margin-left: 10%;
+}
+#newestitem{
+    margin-left: 10%;
+}
 #mostp{
     border-bottom: 4px solid #ED661F;
 }
 .products, .newestitems{
     display: flex;
     justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+
 }
 #productimg{
     height: 300px;
@@ -123,6 +137,7 @@ a.hover{
 }
 .seeall{
     font-size: 200%;
+    margin-right: 10%;
 }
 #seeall{
     float: right;
@@ -130,19 +145,26 @@ a.hover{
 #see{
     border-bottom: 6px solid #ED661F;
 }
+.feedback{
+    margin-left: 10%;
+}
 hr{
     height: 30px;
     background-color: lightgray;
+    margin-left: 10%;
 }
 .feedbackdiv{
     display: flex;
     justify-content: space-around;
+    margin-left: 10%;
+    margin-right: 10%;
 }
-.fa-star{
-    font-size: 2em;
+
+.starrating{
+    font-size: 40px;
 }
 .checked {
-    color: orange;
+    color: #ED661F;
   }
   .unchecked{
     color: lightgray;
